@@ -19,32 +19,32 @@ module.exports.run = async function ({ api, event }) {
 ╔═════════════════════ ✿
 ║ ✨ 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 ✨
 ╠═════════════════════ ✿
-║ 👑 𝗡𝗮𝗺𝗲 : 𝗦𝗛𝗔𝗛𝗔𝗗𝗔𝗧 𝗦𝗔𝗛𝗨
-║ 🧸 𝗡𝗶𝗰𝗸 𝗡𝗮𝗺𝗲 : 𝗦𝗔𝗛𝗨
+║ 👑 𝗡𝗮𝗺𝗲 : 𝙈𝙀𝙃𝙀𝙆 𝙌𝙐𝙀𝙀𝙉
+║ 🧸 𝗡𝗶𝗰𝗸 𝗡𝗮𝗺𝗲 : 𝙌𝙐𝙀𝙀𝙉
 ║ 🎂 𝗔𝗴𝗲 : 𝟭𝟴+
-║ 💘 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻 : 𝗦𝗶𝗻𝗴𝗹𝗲
+║ 💘 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻 : 𝐌𝐚𝐫𝐫𝐢𝐞𝐝
 ║ 🎓 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻 : 𝗦𝘁𝘂𝗱𝗲𝗻𝘁
 ║ 📚 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 : 𝗛𝗦𝗖
-║ 🏡 𝗔𝗱𝗱𝗿𝗲𝘀𝘀 : 𝗞𝗵𝗮𝗴𝗿𝗮𝗰𝗵𝗮𝗿𝗶
+║ 🏡 𝗔𝗱𝗱𝗿𝗲𝘀𝘀 : 𝐤𝐨𝐥𝐤𝐚𝐭𝐚
 ╠═════════════════════ ✿
 ║ 🔗 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
 ╠═════════════════════ ✿
 ║ 📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 :
-║ fb.com/100001039692046
+║ fb.com/100093971543076
 ║ 💬 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
-║ m.me/100001039692046
+║ m.me/100093971543076
 ║ 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 :
 ║ wa.me/01882333052
 ║ ✈️ 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 :
-║ t.me/yoursahu
+║ t.me/yourniloy
 ╚═════════════════════ ✿
 `;
 
   const images = [
-    "https://i.imgur.com/8WBso8x.png",
-    "https://i.imgur.com/0VZu5eY.png",
-    "https://i.imgur.com/bkixgPK.jpeg",
-    "https://i.imgur.com/z6G6L4c.jpeg"
+    "https://i.imgur.com/p58Qyt0.jpeg",
+    "https://i.imgur.com/HlnJIfP.jpeg",
+    "https://i.imgur.com/vWwUcke.jpeg",
+    "https://i.imgur.com/p58Qyt0.jpeg"
   ];
 
   const randomImg = images[Math.floor(Math.random() * images.length)];
